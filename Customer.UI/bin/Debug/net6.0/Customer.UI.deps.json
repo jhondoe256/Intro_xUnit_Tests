@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Customer.UI/1.0.0": {
+        "dependencies": {
+          "Customer.Data": "1.0.0"
+        },
+        "runtime": {
+          "Customer.UI.dll": {}
+        }
+      },
+      "Customer.Data/1.0.0": {
+        "runtime": {
+          "Customer.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Customer.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Customer.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

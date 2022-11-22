@@ -1,0 +1,12 @@
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\bin\Debug\net6.0\Customer.Data.deps.json
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\bin\Debug\net6.0\Customer.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\bin\Debug\net6.0\ref\Customer.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\bin\Debug\net6.0\Customer.Data.pdb
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.csproj.AssemblyReference.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.AssemblyInfoInputs.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.AssemblyInfo.cs
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.csproj.CoreCompileInputs.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\ref\Customer.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Customer.Data\obj\Debug\net6.0\Customer.Data.pdb
