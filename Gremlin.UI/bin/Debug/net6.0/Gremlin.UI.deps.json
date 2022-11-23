@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Gremlin.UI/1.0.0": {
+        "dependencies": {
+          "Gremlin.Data": "1.0.0"
+        },
+        "runtime": {
+          "Gremlin.UI.dll": {}
+        }
+      },
+      "Gremlin.Data/1.0.0": {
+        "runtime": {
+          "Gremlin.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gremlin.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gremlin.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

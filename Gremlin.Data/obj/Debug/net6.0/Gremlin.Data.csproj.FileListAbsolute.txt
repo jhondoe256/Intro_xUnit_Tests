@@ -1,0 +1,12 @@
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\bin\Debug\net6.0\Gremlin.Data.deps.json
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\bin\Debug\net6.0\Gremlin.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\bin\Debug\net6.0\ref\Gremlin.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\bin\Debug\net6.0\Gremlin.Data.pdb
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.csproj.AssemblyReference.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.AssemblyInfoInputs.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.AssemblyInfo.cs
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.csproj.CoreCompileInputs.cache
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\ref\Gremlin.Data.dll
+D:\_StreamingContent\StreamingContentRepo_Net6\src\Demo\Gremlin.Data\obj\Debug\net6.0\Gremlin.Data.pdb
